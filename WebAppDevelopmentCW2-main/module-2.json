@@ -1,0 +1,52 @@
+[
+  {
+    "Name": "Post-Graduate",
+    "Course":"Networking, Security & Forensics",
+    "Module": {
+    "Learning_outcomes":["LO1", "LO2"],
+    "Assignment":["CW1", "CW2"],
+    "Volume":["1000 words", "4000 words"],
+    "weights":["20%", "80%"]
+    }
+  },
+  {
+    "Name": "Post-Graduate",
+    "Course":"Big Data",
+    "Module": {
+    "Learning_outcomes":["LO1", "LO2"],
+    "Assignment":["CW1", "CW2"],
+    "Volume":["1000 words", "4000 words"],
+    "weights":["20%", "80%"]
+    }
+  },
+  {
+    "Name": "Post-Graduate",
+    "Course":"AI and Robotics",
+    "Module": {
+    "Learning_outcomes":["LO1", "LO2"],
+    "Assignment":["CW1", "CW2"],
+    "Volume":["1000 words", "4000 words"],
+    "weights":["20%", "80%"]
+    } 
+  },
+  {
+    "Name": "Post-Graduate",
+    "Course":"Computing",
+    "Module": {
+    "Learning_outcomes":["LO1", "LO2"],
+    "Assignment":["CW1", "CW2"],
+    "Volume":["1000 words", "4000 words"],
+    "weights":["20%", "80%"]
+    } 
+  },
+  {
+    "Name": "Post-Graduate",
+    "Course":"Information Technology Management",
+    "Module": {
+    "Learning_outcomes":["LO1", "LO2"],
+    "Assignment":["CW1", "CW2"],
+    "Volume":["1000 words", "4000 words"],
+    "weights":["20%", "80%"]
+    } 
+  }
+]
