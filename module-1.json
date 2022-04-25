@@ -10,18 +10,38 @@
     }
   },
   {
-    "Name": "Post-Graduate",
-    "Course":"Big Data",
+    "Name": "Undergraduate",
+    "Course":"Software Engineering",
     "Module": {
-    "Learning_outcomes":["LO1", "LO2"],
-    "Assignment":["CW1", "CW2"],
-    "Volume":["1000 words", "4000 words"],
-    "weights":["20%", "80%"]
+      "Learning_outcomes":["LO1", "LO2"],
+      "Assignment":["CW1", "CW2"],
+      "Volume":["1000 words", "4000 words"],
+      "weights":["20%", "80%"]
     }
   },
   {
-    "Name": "Research",
-    "Course":"Data Mining",
+    "Name": "Undergraduate",
+    "Course":"Games Development",
+    "Module": {
+      "Learning_outcomes":["LO1", "LO2"],
+      "Assignment":["CW1", "CW2"],
+      "Volume":["1000 words", "4000 words"],
+      "weights":["20%", "80%"]
+    }
+  },
+  {
+    "Name": "Undergraduate",
+    "Course":"Computer Science",
+    "Module": {
+      "Learning_outcomes":["LO1", "LO2"],
+      "Assignment":["CW1", "CW2"],
+      "Volume":["1000 words", "4000 words"],
+      "weights":["20%", "80%"]
+    }
+  },
+  {
+    "Name": "Undergraduate",
+    "Course":"Data Science",
     "Module": {
       "Learning_outcomes":["LO1", "LO2"],
       "Assignment":["CW1", "CW2"],
@@ -29,5 +49,4 @@
       "weights":["20%", "80%"]
     }
   }
-  
 ]
